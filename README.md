@@ -1,5 +1,5 @@
 <h1 align="center">I'm Rohit Dey</h1>
-<h3 align="center">Machine Learning Engineer at Capsitech <br>
+<h3 align="center">Machine Learning Engineer at Capsitech <br></h3>
 # 💫 About Me:
 👋 Hello! My name is Rohit Dey.<br>AI & GenAI Agentic & AI: Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision, OCR,<br>Reinforcement Learning (PPO), Prompt Engineering, Retrieval-Augmented Generation (RAG), LLMs (GPT,<br>LLaMA, Mistral), LLM Fine-Tuning (LoRA, QLoRA), LangChain, LangGraph, Agno, A2A Protocol, MCP,<br>Multi-Agent Systems, Tool Calling, Memory Systems, Vector Search & Reranking<br>Frameworks & MLOps: PyTorch, TensorFlow, Transformers, YOLO, OpenCV, Detectron, FastAPI, Docker,<br>VLLM, Git, Linux, Azure AI Foundry<br>Data & Programming: Python, Java, Kotlin, OOP, DSA, MongoDB, MySQL, SQLite, Vector Databases (FAISS,<br>Chroma)<br>👯 I’m looking to collaborate on Kaggle Competitions<br>💬 Ask me about anything regarding ML/AI<br>📫 How to reach me rohitdey12121212@gmail.com<br>📄 Know about my experiences Linkedin
 
